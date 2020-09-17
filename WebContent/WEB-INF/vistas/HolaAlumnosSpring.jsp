@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Página de Ejemplo</title>
+<title>Respuesta del formulario</title>
 </head>
 <body>
-	<h1>Hola mundo</h1>
-	<a href="muestraFormulario">Ver formulario</a>
+	<h1>Hola alumno</h1>
+	<p>Nombre: ${param.nombreAlumno }, bienvenido.</p> 
 </body>
 </html>
